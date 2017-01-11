@@ -1,0 +1,16 @@
+{
+  "name": "deck-of-cards",
+  "version": "1.0.0",
+  "description": "A command Line App that consumes a Public API",
+  "main": "app/mine.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/HTTP-API-Lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
